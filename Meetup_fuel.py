@@ -101,3 +101,7 @@ source: https://www.saltycrane.com/blog/2007/09/how-to-sort-python-dictionary-by
 	
 l_trim_s = sorted(l_trim, key=sorted_price)
 '''
+
+a
+b
+c
